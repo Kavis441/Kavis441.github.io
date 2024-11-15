@@ -32,16 +32,19 @@ Although my achievements might not compare to those of top-tier researchers, the
 
 # 📝 Research Project 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Document Analysis</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Document Analysis</div><img src='https://nimol89.github.io/PLA/images/Untitled%20drawing(4).png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Historical Palm Leaf Analysis for Multi-script Low Resource Languages](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
 [**Project**](https://nimol89.github.io/PLA/)
-The Palm Leaf Manuscript Dataset is a unique compilation of historical scripts from Southeast Asia, representing centuries of rich cultural heritage. It features diverse scripts such as Sundanese, Balinese, and Khmer, traditionally used to document religious texts, historical records, and cultural narratives on palm leaves. The dataset supports various tasks in palm leaf analysis, including data collection, isolated glyph classification, document enhancement, and text recognition.
+The Palm Leaf Manuscript Dataset is a unique compilation of historical scripts from Southeast Asia, representing centuries of rich cultural heritage. It features diverse scripts such as Sundanese, Balinese, and Khmer, traditionally used to document religious texts, historical records, and cultural narratives on palm leaves.
 [Data Collection](https://nimol89.github.io/datacollection)
+
 [Document Enhancement](https://nimol89.github.io/enhancement/)
+
 [Isolated Glyph Classification](https://nimol89.github.io/classification/)
+
 [Isolated Glyph Classification](https://nimol89.github.io/sada/)
 </div>
 </div>
