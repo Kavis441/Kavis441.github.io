@@ -17,9 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+My name is Nimol, and I am from Cambodia. I have been actively involved in research and development since 2011. My early work focused on web applications for search engines, specifically the Khmer Semantic Search Engine, developed between 2011 and 2016. This project was a groundbreaking effort to address the complexities of processing the Khmer language, a challenge even Google struggled with at the time. I also worked on Khmer search engines and keyword extraction from Khmer documents, including PDF-scanned images. Between 2013 and 2017, I contributed to a national research and development initiative for a financial document system. This project, which included advanced search tools, keyword extraction, and OCR, was supported by the Cambodian Ministry of Education and funded by the World Bank. Since 2017, I have been conducting research in computer vision and pattern recognition at institutions such as the University of Mons in Belgium, FAU Erlangen-Nürnberg in Germany and the Chinese Academy of Sciences under the University of Science and Technology. Additionally, I have worked on analyzing historical palm leaf manuscripts, focusing on document analysis, computer vision, and pattern recognition.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interests include complex document analysis, particularly for historical documents and text processing for low-resource languages. I have contributed to both industry-driven research projects and published papers in leading peer-reviewed conferences and journals in my fields of expertise.
+
+Although my achievements might not compare to those of top-tier researchers, they are deeply meaningful to me. Born into a family with limited resources, I earned most of my degrees through competitive scholarships, which I achieved through hard work and dedication. Despite these accomplishments, I remain eager to gain more experience and continue learning from experts and researchers around the world.
+
+
+
+
 
 
 # 🔥 News
