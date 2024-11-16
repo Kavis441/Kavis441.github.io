@@ -45,7 +45,7 @@ The Palm Leaf Manuscript Dataset is a unique compilation of historical scripts f
 - [Data Collection](https://nimol89.github.io/datacollection)
 - [Document Enhancement](https://nimol89.github.io/enhancement/)
 - [Isolated Glyph Classification](https://nimol89.github.io/classification/)
-- [Isolated Glyph Classification](https://nimol89.github.io/sada/)
+- [Text Recognition and Multimodal Understanding](https://nimol89.github.io/sada/)
 </div>
 
 </div>
@@ -74,7 +74,7 @@ For Khmer documents, an effective tool is needed to extract essential keywords a
 In this project, I have conducted research and developed several complex systems, including an Open Education Resource (OER) platform for Cambodian students at the Institute of Technology of Cambodia. This includes both web and mobile applications. Another significant project is the development of a Financial Document Management system by the Ministry of Education of Cambodia, implemented as a web application that connects all departments across Cambodia's provinces.
 
   **Link for Project Details and Papers**
-- [OER Project]([https://arxiv.org/html/2406.09320v1](https://arxiv.org/abs/2405.16442))
+- [Open Educational Resources (OER)](https://arxiv.org/abs/2405.16442)
 - [Cambodia Document Management (Code)](https://github.com/back-kh/CAM-OER-Cambodian-Open-Resource-Education)
 - **Financial Document Management (Confidential)**
 </div>
