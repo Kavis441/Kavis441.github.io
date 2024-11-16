@@ -69,7 +69,7 @@ For Khmer documents, an effective tool is needed to extract essential keywords a
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Complex System</div><img src='https://www.researchgate.net/publication/359984175/figure/fig5/AS:1145681284730881@1650163112037/Condensed-modularity-mapping_Q320.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**Cambodian Complex System**](https://nimol89.github.io/kse/)
+[**Cambodian Complex System**](https://arxiv.org/abs/2405.16442)
 
 In this project, I have conducted research and developed several complex systems, including an Open Education Resource (OER) platform for Cambodian students at the Institute of Technology of Cambodia. This includes both web and mobile applications. Another significant project is the development of a Financial Document Management system by the Ministry of Education of Cambodia, implemented as a web application that connects all departments across Cambodia's provinces.
 
