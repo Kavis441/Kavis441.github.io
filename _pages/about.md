@@ -58,24 +58,24 @@ The Palm Leaf Manuscript Dataset is a unique compilation of historical scripts f
 For Khmer documents, an effective tool is needed to extract essential keywords and facilitate accurate searches. Despite the daily generation of significant Khmer content, Cambodians struggle to find necessary documents due to the lack of an effective semantic searching tool. We developed tools for search engines, and keyword extraction.
 
   **Link for Project Details and Papers**
-- [Khmer Search Engine with AI (Comming soon)])
+- **Khmer Search Engine with AI (Comming soon)**
 - [Khmer Search Engine with Ontology and Semantic Matching](https://arxiv.org/html/2406.09320v1)
 - [Khmer Keyword Extraction](https://arxiv.org/abs/2405.17390)
 - [Khmer Stop Word-based Dictionary (data and code)](https://github.com/back-kh/KSWv2-Khmer-Stop-Word-based-Dictionary-for-Keyword-Extraction)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Document Retrieval</div><img src='https://nimol89.github.io/kse/assets/fig6.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Document Retrieval</div><img src='https://unesdoc.unesco.org/in/rest/Thumb/image?id=p%3A%3Ausmarcdef_0000266159_eng&author=Organisation+internationale+de+la+Francophonie&title=Open+educational+resources+competency+framework+OER&year=2016&TypeOfDocument=UnescoPhysicalDocument&mat=PGD&ct=true&size=512&isPhysical=1' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**Khmer Document Retrieval**](https://nimol89.github.io/kse/)
+[**Cambodian Complex System**](https://nimol89.github.io/kse/)
 
-For Khmer documents, an effective tool is needed to extract essential keywords and facilitate accurate searches. Despite the daily generation of significant Khmer content, Cambodians struggle to find necessary documents due to the lack of an effective semantic searching tool. We developed tools for search engines and keyword extraction.
-  **Task for project and papers**
-- [Khmer Search Engine with AI (Comming soon)])
-- [Khmer Search Engine with Ontology and Semantic Matching](https://arxiv.org/html/2406.09320v1)
-- [Khmer Keyword Extraction](https://arxiv.org/abs/2405.17390)
-- [Khmer Stop Word-based Dictionary (data and code)](https://github.com/back-kh/KSWv2-Khmer-Stop-Word-based-Dictionary-for-Keyword-Extraction)
+In this project, I have conducted research and developed several complex systems, including an Open Education Resource (OER) platform for Cambodian students at the Institute of Technology of Cambodia. This includes both web and mobile applications. Another significant project is the development of a financial document management system, implemented as a web application that connects all departments across Cambodia's provinces.
+
+  **Link for Project Details and Papers**
+- [OER Project]([https://arxiv.org/html/2406.09320v1](https://arxiv.org/abs/2405.16442))
+- [Cambodia Document Management (Code)](https://github.com/back-kh/CAM-OER-Cambodian-Open-Resource-Education)
+- **Financial Document Management (Confidential)**
 </div>
 </div>
 <div>
