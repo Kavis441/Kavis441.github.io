@@ -33,12 +33,13 @@ My research interests include complex document analysis, particularly for histor
 
 # 📚 Research Project 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Document Analysis</div><img src='https://nimol89.github.io/PLA/images/Untitled%20drawing(4).png' alt="sym" width="100%" height="100%></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Document Analysis</div><img src='https://nimol89.github.io/PLA/images/Untitled%20drawing(4).png' alt="sym" width="100%" height="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**Historical Palm Leaf Manuscript Analysis**](https://nimol89.github.io/PLA/)
 The Palm Leaf Manuscript Dataset is a unique compilation of historical scripts from Southeast Asia, representing centuries of rich cultural heritage. It features diverse scripts such as Sundanese, Balinese, and Khmer, traditionally used to document religious texts, historical records, and cultural narratives on palm leaves.
-  **Task for project and papers**
+
+  **Link for Project Details and Papers**
 - [Overview of Project](https://nimol89.github.io/PLA/)
 - [Data Collection](https://nimol89.github.io/datacollection)
 - [Document Enhancement](https://nimol89.github.io/enhancement/)
@@ -55,7 +56,8 @@ The Palm Leaf Manuscript Dataset is a unique compilation of historical scripts f
 [**Khmer Document Retrieval**](https://nimol89.github.io/kse/)
 
 For Khmer documents, an effective tool is needed to extract essential keywords and facilitate accurate searches. Despite the daily generation of significant Khmer content, Cambodians struggle to find necessary documents due to the lack of an effective semantic searching tool. We developed tools for search engines, and keyword extraction.
-  **Task for project and papers**
+
+  **Link for Project Details and Papers**
 - [Khmer Search Engine with AI (Comming soon)])
 - [Khmer Search Engine with Ontology and Semantic Matching](https://arxiv.org/html/2406.09320v1)
 - [Khmer Keyword Extraction](https://arxiv.org/abs/2405.17390)
@@ -68,7 +70,7 @@ For Khmer documents, an effective tool is needed to extract essential keywords a
 
 [**Khmer Document Retrieval**](https://nimol89.github.io/kse/)
 
-For Khmer documents, an effective tool is needed to extract essential keywords and facilitate accurate searches. Despite the daily generation of significant Khmer content, Cambodians struggle to find necessary documents due to the lack of an effective semantic searching tool. We developed tools for search engines, and keyword extraction.
+For Khmer documents, an effective tool is needed to extract essential keywords and facilitate accurate searches. Despite the daily generation of significant Khmer content, Cambodians struggle to find necessary documents due to the lack of an effective semantic searching tool. We developed tools for search engines and keyword extraction.
   **Task for project and papers**
 - [Khmer Search Engine with AI (Comming soon)])
 - [Khmer Search Engine with Ontology and Semantic Matching](https://arxiv.org/html/2406.09320v1)
