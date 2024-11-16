@@ -36,14 +36,16 @@ Although my achievements might not compare to those of top-tier researchers, the
 
 The Palm Leaf Manuscript Dataset is a unique compilation of historical scripts from Southeast Asia, representing centuries of rich cultural heritage. It features diverse scripts such as Sundanese, Balinese, and Khmer, traditionally used to document religious texts, historical records, and cultural narratives on palm leaves.
 </div>
-**Task for project and papers**
+
+</div>
+<div>
+  **Task for project and papers**
 - [Data Collection](https://nimol89.github.io/datacollection)
 - [Document Enhancement](https://nimol89.github.io/enhancement/)
 - [Isolated Glyph Classification](https://nimol89.github.io/classification/)
 - [Isolated Glyph Classification](https://nimol89.github.io/sada/)
 </div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Document Analysis</div><img src='https://nimol89.github.io/PLA/images/Untitled%20drawing(4).png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Document Analysis</div><img src='https://nimol89.github.io/kse/assets/fig4.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Khmer Document Retrieval](https://nimol89.github.io/kse/)
@@ -52,23 +54,24 @@ The Palm Leaf Manuscript Dataset is a unique compilation of historical scripts f
 For Khmer documents, an effective tool is needed to extract essential keywords and facilitate accurate searches. Despite the daily generation of significant Khmer content, Cambodians struggle to find necessary documents due to the lack of an effective semantic searching tool. We developed tools for search engines, and keyword extraction.
 
 </div>
-**Task for project and papers**
+</div>
+<div>
+  **Task for project and papers**
 - [Khmer Search Engine with AI (Comming soon)])
 - [Khmer Search Engine with Ontology and Semantic Matching](https://arxiv.org/html/2406.09320v1)
 - [Khmer Keyword Extraction](https://arxiv.org/abs/2405.17390)
 - [Khmer Stop Word-based Dictionary (data and code)](https://github.com/back-kh/KSWv2-Khmer-Stop-Word-based-Dictionary-for-Keyword-Extraction)
 </div>
+
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- IAPR Support Grant for Summer School on Document Analysis and Recognition 2023
+- CuriousU Summer School Scholarship, University of Twente, 2022
+- IEEE USTC Outstanding Young Researcher Award for contributions to complex document image analysis
+- CAS-TWAS: The most competitive fellowship in China. 
+- Erasmus and CAS Scholarship for PhD Scholarships 
+- Excellence Award for Innovative Technology in Document Retrieval by the Ministry of Education of Cambodia.
+- Engineering and Master’s Degree Scholarship: ITC University Excellent Scholarship
+- Winner ASEAN CTF and Cyber Security Challenges 2016 
+- Runner up Cambodia Cyber Security Challenges 2015 
+- Winner Cambodia Cyber Security Challenges 2013
+- Winner Cambodia Programming MS Challenges 2012 
