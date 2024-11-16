@@ -30,7 +30,7 @@ My research interests include complex document analysis, particularly for histor
 **Although my achievements might not compare to top-tier researchers**. However, they are deeply meaningful to me. Born into a family with limited resources, I earned most of my degrees through competitive scholarships, which I achieved through hard work and dedication. Despite these accomplishments, I remain eager to gain more experience and continue learning from experts and researchers around the world.
 
 
-
+<span class='anchor' id='Project'></span>
 # 📚 Research Project 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Document Analysis</div><img src='https://nimol89.github.io/PLA/images/Untitled%20drawing(4).png' alt="sym" width="100%" height="100%"></div></div>
@@ -81,7 +81,7 @@ In this project, I have conducted research and developed several complex systems
 <div>
 
 </div>
-
+<span class='anchor' id='awards'></span>
 # 🎖 Honors and Awards
 - IAPR Support Grant for Summer School on Document Analysis and Recognition 2023
 - CuriousU Summer School Scholarship, University of Twente, 2022
