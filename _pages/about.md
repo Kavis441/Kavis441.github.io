@@ -37,6 +37,7 @@ My research interests include complex document analysis, particularly for histor
 <div class='paper-box-text' markdown="1">
 
 [**Historical Palm Leaf Manuscript Analysis**](https://nimol89.github.io/PLA/)
+
 The Palm Leaf Manuscript Dataset is a unique compilation of historical scripts from Southeast Asia, representing centuries of rich cultural heritage. It features diverse scripts such as Sundanese, Balinese, and Khmer, traditionally used to document religious texts, historical records, and cultural narratives on palm leaves.
 
   **Link for Project Details and Papers**
@@ -70,7 +71,7 @@ For Khmer documents, an effective tool is needed to extract essential keywords a
 
 [**Cambodian Complex System**](https://nimol89.github.io/kse/)
 
-In this project, I have conducted research and developed several complex systems, including an Open Education Resource (OER) platform for Cambodian students at the Institute of Technology of Cambodia. This includes both web and mobile applications. Another significant project is the development of a financial document management system, implemented as a web application that connects all departments across Cambodia's provinces.
+In this project, I have conducted research and developed several complex systems, including an Open Education Resource (OER) platform for Cambodian students at the Institute of Technology of Cambodia. This includes both web and mobile applications. Another significant project is the development of a Financial Document Management system by the Ministry of Education of Cambodia, implemented as a web application that connects all departments across Cambodia's provinces.
 
   **Link for Project Details and Papers**
 - [OER Project]([https://arxiv.org/html/2406.09320v1](https://arxiv.org/abs/2405.16442))
@@ -81,6 +82,7 @@ In this project, I have conducted research and developed several complex systems
 <div>
 
 </div>
+
 <span class='anchor' id='awards'></span>
 # 🎖 Honors and Awards
 - IAPR Support Grant for Summer School on Document Analysis and Recognition 2023
