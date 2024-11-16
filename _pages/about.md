@@ -66,7 +66,7 @@ For Khmer documents, an effective tool is needed to extract essential keywords a
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Document Retrieval</div><img src='https://e7.pngegg.com/pngimages/1018/544/png-clipart-learning-educational-technology-apprendimento-online-course-teacher-text-teacher.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Complex System</div><img src='https://www.researchgate.net/publication/359984175/figure/fig5/AS:1145681284730881@1650163112037/Condensed-modularity-mapping_Q320.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**Cambodian Complex System**](https://nimol89.github.io/kse/)
