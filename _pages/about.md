@@ -85,7 +85,7 @@ In this project, I have conducted research and developed several complex systems
 
 <span class='anchor' id='awards'></span>
 # 🎖 Honors and Awards
-- IAPR Support Grant for Summer School on Document Analysis and Recognition 2023
+- IAPR Support Grant for Summer School on Document Analysis and Recognition, University of Fribourg, 2023
 - CuriousU Summer School Scholarship, University of Twente, 2022
 - IEEE USTC Outstanding Young Researcher Award for contributions to complex document image analysis
 - CAS-TWAS: The most competitive fellowship in China. 
